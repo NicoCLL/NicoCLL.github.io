@@ -1,0 +1,34 @@
+.showcase{
+    width: 100%;
+    height: 80vh;
+    position:relative;
+}
+
+.showcase video {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    align-items: center;
+    justify-self: center;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+}
+
+.title {
+    width: 100%;
+    height: 100%;
+    background-color: grey;
+    font-size: 18rem;
+    color: white;
+    mix-blend-mode: multiply;
+    
+}
+
+.navbar {
+    background-color: black;
+}
+
+.formulario{
+    background-color: #272727;
+}
