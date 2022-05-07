@@ -30,5 +30,14 @@
 }
 
 .formulario{
-    background-color: #272727;
+    background-color: black;
+}
+
+.footer{
+    background-color: black;
+}
+
+.formulario{
+    padding-bottom: 60px;
+    padding-top: 60px;
 }
