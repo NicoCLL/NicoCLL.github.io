@@ -46,8 +46,6 @@
     padding-top: 60px;
 }
 
-#intereses {
-    justify-content: space-around;
-    text-align: center;
+#bajada{
+    width: 100%;
 }
-
