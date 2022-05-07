@@ -1,6 +1,6 @@
 .showcase{
     width: 100%;
-    height: 80vh;
+    height: 82vh;
     position:relative;
 }
 
@@ -18,10 +18,13 @@
 .title {
     width: 100%;
     height: 100%;
-    background-color: grey;
-    font-size: 18rem;
+    background-color: rgba(24, 22, 22, 0.728);
+    font-size: 10vw;
     color: white;
     mix-blend-mode: multiply;
+    text-align: center;
+    padding-top: 150px;
+    
     
 }
 
@@ -35,9 +38,16 @@
 
 .footer{
     background-color: black;
+    margin-bottom: end;
 }
 
 .formulario{
     padding-bottom: 60px;
     padding-top: 60px;
 }
+
+#intereses {
+    justify-content: space-around;
+    text-align: center;
+}
+
